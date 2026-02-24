@@ -1,4 +1,4 @@
-# Flood & Drought Predictor
+# Flood and Drought Prediction
 
 A small Flask web app that predicts monthly rainfall and a simple flood/drought risk level for locations in India using a Random Forest regression model trained on historical rainfall data.
 
